@@ -8,13 +8,13 @@ What if you could hand an AI your textbook and get back a personal tutor that ac
 
 We demonstrate this with pharmacology (PK/PD) modeling: a domain where complex, specialized knowledge sits at the intersection of biology and mathematics. Our approach decomposes modeling into two interpretable layers: the biological mechanisms (what's happening in the body) and the mathematical framework (how we describe it quantitatively).
 
-## The Problem
-
-A 300-page modeling manual treats a first-year student and a seasoned researcher the same. Beginners may get stuck, skip ahead, or give up. The knowledge is there, but without a dynamic learning model, it stays locked on the page.
-
 ## Demo
 
 ![PKPD Simulation](./pkpd_model_output.gif)
+
+## The Problem
+
+A 300-page modeling manual treats a first-year student and a seasoned researcher the same. Beginners may get stuck, skip ahead, or give up. The knowledge is there, but without a dynamic learning model, it stays locked on the page.
 
 ## The Features
 
