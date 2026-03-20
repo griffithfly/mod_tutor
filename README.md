@@ -4,7 +4,7 @@
 
 ## The Idea
 
-What if you could hand an AI your textbook and get back a personal tutor that actually understands the content — not just searches it?
+What if you could hand an AI your textbook and get back a personal tutor that actually understands the content; not just searches it?
 
 We demonstrate this with pharmacology (PK/PD) modeling: a domain where complex, specialized knowledge sits at the intersection of biology and mathematics. Our approach decomposes modeling into two interpretable layers: the biological mechanisms (what's happening in the body) and the mathematical framework (how we describe it quantitatively).
 
@@ -20,7 +20,7 @@ A 300-page modeling manual treats a first-year student and a seasoned researcher
 
 ### Automated Knowledge Pipeline
 
-We built an automated pipeline that transforms unstructured PDF textbooks into structured, queryable JSON — essentially a lightweight, domain-specific vector database — and wires it into a Custom GPT that teaches, adapts, and reasons through real examples to save tokens. 
+We built an automated pipeline that transforms unstructured PDF textbooks into structured, queryable JSON (essentially a lightweight, domain-specific vector database) and wires it into a Custom GPT that teaches, adapts, and reasons through real examples to save tokens. 
 
 **PDF → NLP Pipeline → Structured JSON → Custom GPT Knowledge → Personal Tutor**
 
