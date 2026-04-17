@@ -158,7 +158,7 @@
 <circle cx="360" cy="776" r="3" fill="#D85A30"/>
 <line x1="363" y1="776" x2="378" y2="776" stroke="#D85A30" stroke-width="1.2" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
 
-<circle cx="340" cy="800" r="4" fill="#D85A30"/>
+<circle cx="340" cy="888" r="4" fill="#D85A30"/>
 <line x1="340" y1="892" x2="340" y2="928" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="6 4" marker-end="url(#arrow)"/>
   
 <!-- ========== NODE 5: Custom GPT Container ========== -->
