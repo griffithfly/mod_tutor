@@ -126,7 +126,7 @@
   <rect x="445" y="624" width="175" height="100" rx="10" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="0.5"/>
 </g>
 <rect x="445" y="624" width="175" height="3" rx="1.5" fill="#D85A30"/>
-<text x="465" y="650" style="font-size:12px; font-weight:500; fill:#2C2C2A">Reviewer 3</text>
+<text x="465" y="650" style="font-size:12px; font-weight:500; fill:#2C2C2A">LLM-based Reviewer 3</text>
 <text x="465" y="666" style="font-size:12px; font-weight:500; fill:#2C2C2A">Weighted schema</text>
 <text x="465" y="686" style="font-size:11px; fill:#D85A30; font-weight:500">HYPOTHESIS-DRIVEN</text>
 <text x="465" y="704" style="font-size:10px; fill:#888780">Fields map 1:1 to rubric</text>
